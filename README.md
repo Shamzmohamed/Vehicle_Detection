@@ -43,18 +43,15 @@ This project is a **Vehicle Detection and Counting App** built with [Streamlit](
 - `videos/`: Directory containing sample videos.
 - `temp/`: Temporary storage for uploaded videos.
 
-## Requirements
-
-- Python 3.x
-- Streamlit
-- OpenCV
-- Numpy
-
 ## Future Enhancements
 
 - Integrating additional vehicle attributes such as type and color detection.
 - Exporting vehicle counting and tracking data to CSV format.
 - Improving performance with GPU acceleration.
+
+## App Demo 
+![App_Demo](https://github.com/user-attachments/assets/cfccc2d1-8d7a-404b-aeef-c204805b0fb0)
+
 
 ## License
 
