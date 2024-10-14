@@ -50,8 +50,7 @@ This project is a **Vehicle Detection and Counting App** built with [Streamlit](
 - Improving performance with GPU acceleration.
 
 ## App Demo 
-![App_Demo](https://github.com/user-attachments/assets/cfccc2d1-8d7a-404b-aeef-c204805b0fb0)
-
+![App_Demo](https://github.com/user-attachments/assets/5ab99400-b379-471e-9d14-8b33ccac76b0)
 
 ## License
 
