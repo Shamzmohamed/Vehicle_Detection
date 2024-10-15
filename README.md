@@ -14,7 +14,7 @@ This project is a **Vehicle Detection and Counting App** built with [Streamlit](
 1. Clone this repository:
     ```bash
     git clone https://github.com/your-username/vehicle-detection-app.git
-    cd vehicle-detection-app
+    cd Vehicle-Detection
     ```
 
 2. Install the required dependencies:
